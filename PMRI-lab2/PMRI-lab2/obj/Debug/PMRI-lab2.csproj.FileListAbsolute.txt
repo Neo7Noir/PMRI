@@ -1,0 +1,8 @@
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\bin\Debug\PMRI-lab2.exe.config
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\bin\Debug\PMRI-lab2.exe
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\bin\Debug\PMRI-lab2.pdb
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\obj\Debug\PMRI-lab2.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\obj\Debug\PMRI-lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\obj\Debug\PMRI-lab2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\obj\Debug\PMRI-lab2.exe
+C:\Users\vladi\OneDrive\Desktop\pmri-lab2\PMRI-lab2\PMRI-lab2\obj\Debug\PMRI-lab2.pdb
